@@ -4,7 +4,7 @@
 
 
 
-sudo /opt/lampp/lampp start
+sudo chmod 777 /opt/lampp/htdocs/ -R
 
-cd /opt/lampp
-sudo ./manager-linux.run
+
+/opt/lampp/manager-linux-x64.run
