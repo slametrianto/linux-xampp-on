@@ -1,7 +1,7 @@
 # linux-xampp-on
 
 
-
+sudo /opt/lampp/lampp start
 
 
 sudo chmod 777 /opt/lampp/htdocs/ -R
